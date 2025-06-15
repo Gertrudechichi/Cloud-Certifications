@@ -1,4 +1,4 @@
-﻿# Cloud-Certifications
+
 ![image alt](https://github.com/Gertrudechichi/Cloud-Certifications/blob/bd7aa9e2cfbbf1218dfdcb53df08e4a14a748092/AWS%20Cloud%20practitioner%20essentials.pdf)
 
 
